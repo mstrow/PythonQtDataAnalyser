@@ -3,7 +3,7 @@
 main.py
 
 Author: Mitchell Trow
-Email: Mitchell-Trow@live.nmit.ac.nz
+Email: REMOVED
 Last Edited: 27 Aug 21 2:00pm
 
 Important:

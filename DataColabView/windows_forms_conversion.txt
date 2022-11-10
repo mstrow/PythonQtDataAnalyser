@@ -1,0 +1,3 @@
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+.\venv\Scripts\activate.ps1
+pyside6-uic.exe .\DataView.ui | out-file "DataView.py" -Encoding utf8

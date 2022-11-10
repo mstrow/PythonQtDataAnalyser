@@ -1,8 +1,6 @@
-# SDV602_MS3
+# PythonQtDataAnalysis
 
-
-
-https://github.com/mitchell-tr/SDV602_MS3
+## or DataColabView
 
 
 

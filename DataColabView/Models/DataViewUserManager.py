@@ -18,7 +18,7 @@ class UserManager(object):
     def __init__(self) -> None:
         super().__init__()
 
-        self.jsnDrop = jsnDrop("cd5159dc-7fdf-40b7-82be-61a06a1de3e2", "https://newsimland.com/~todd/JSON")
+        self.jsnDrop = jsnDrop("REMOVED", "REMOVED")
 
         # SCHEMA Make sure the tables are  CREATED - jsnDrop does not wipe an existing table if it is recreated
         result = self.jsnDrop.create("tblUser", {"PersonID PK": "A_LOOONG_NAME" + ('X' * 50),
